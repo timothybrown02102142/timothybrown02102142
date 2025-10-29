@@ -1,5 +1,15 @@
 ## Hi there, I am Timothy Brown from US, CEO of DINKLife 👋
 
+<h1> 💫 About Me  </h1>
+
+<h3>
+  - 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web applications<br/>
+  - 📦 Blockchain enthusiast with 3+ years of experience in designing, developing, and deploying innovative solutions<br/>
+  - 📤 Scraping and Automation specialist with solid experience leveraging several tools and APIs<br/>
+  - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS, DigitalOcean, GCP and Azure<br/>
+</h3>
+<br/><br/>
+
 <!--
 **timothybrown02102142/timothybrown02102142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
